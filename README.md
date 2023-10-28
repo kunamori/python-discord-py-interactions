@@ -1,2 +1,2 @@
 # python-discord-py-interactions
-AUR package for interactions-py
+MAKEPKG package for interactions-py in arch linux
